@@ -1,0 +1,2 @@
+model,mean_rmsse_avg_over_folds,weighted_rmsse_avg_over_folds,num_folds
+Global,0.907750454444246,0.7688446802560593,10

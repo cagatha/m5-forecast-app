@@ -1,0 +1,2 @@
+model,mean_rmsse,weighted_rmsse,num_series
+baseline,1.879174200599204,1.6901183953462486,30490
