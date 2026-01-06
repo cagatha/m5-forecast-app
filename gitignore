@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit secrets (never commit)
+.streamlit/secrets.toml
+
+# Large data / models (keep out of deployment repo)
+*.parquet
+*.ckpt
+data/
+models/
